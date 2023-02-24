@@ -2,5 +2,5 @@
 A simple calculator written in Python.
 
 
-<hl align="center">Hi, I'm an <a href="https:iginirium.ru/", target="_blank">Inginirium student</a></hl>
+<h1 align="center">Hi there, I'm <a href="https://inginirium.ru/", target="_blank">Inginirium Student👋</a></h1>
 <img scr>='calculator_image.png', width=50%, heigth=50%/>
