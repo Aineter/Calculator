@@ -3,4 +3,4 @@ A simple calculator written in Python.
 
 
 <h1 align="center">Hi, I'm <a href="https://inginirium.ru/", target="_blank">Inginirium Student</a></h1>
-<img scr="calculator_image.png", width=50%, heigth=50%/>
+<img scr="Calculator_image.png", width=50%, heigth=50%/>
